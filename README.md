@@ -7,14 +7,14 @@
 
 
 <p align="center">
-Hello, I'm **Wiebke Grieshop (she/her)**, a Graphic Designer, Developer & Internet Explorer from Hamburg. Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/)at the HfbK Hamburg. </p>
+Hello, I'm <b>Wiebke Grieshop (she/her)<b>, a Graphic Designer, Developer & Internet Explorer from Hamburg. Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/)at the HfbK Hamburg. </p>
 
 
-Don't hesitate to get in touch via [Email](mailto:hallo@wiebkegrieshop.com) for collaborative work, work enquiries or just to say hello. 
+<p align="center"> Don't hesitate to get in touch via [Email](mailto:hallo@wiebkegrieshop.com) for collaborative work, work enquiries or just to say hello.</p> 
 
- I'm currently redoing my website. in the meantime you can check out my 
+ <p align="center"> I'm currently redoing my website. in the meantime you can check out my 
  - [Portfolio](https://wiebkegrieshop.com/portfolio.pdf) 
- - or visit my [older Website](https://wiebkegrieshop.com/older).
+ - or visit my [older Website](https://wiebkegrieshop.com/older).</p>
 
 
 
