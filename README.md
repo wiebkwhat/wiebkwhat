@@ -3,9 +3,8 @@
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-# :sparkles: Welcome to my GitHub :sparkles:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://giphy.com/gifs/cute-dog-7dSNGCyJkCM5q/giphy.gif)
 
 ![Alt Text](https://tenor.com/search/graphic+design+is+my+passion-gifs)
 
