@@ -1,11 +1,11 @@
 <p align="center">  
- ✨ # Welcome to my GitHub ✨ </p>
+ ✨ <b> Welcome to my GitHub </b>✨ </p>
   
 <p align="center">  <img src="https://media.giphy.com/media/3oEduPYHQCqxnwGeQw/giphy.gif" /> 
 
  </p>
  
- \textcolor{red}{red}
+
 
 
 <p align="center">
