@@ -8,7 +8,7 @@
 
 
 
- ✨  Welcome to my GitHub ✨ 
+ ✨ # Welcome to my GitHub ✨ 
   
 <p align="center">  <img src="https://giphy.com/embed/2RiU1RUjyh4C4/giphy.gif" /> 
 
@@ -17,7 +17,8 @@
 
 
 
-Hello, I'm **Wiebke Grieshop (she/her)**, a Graphic Designer, Developer & Internet Explorer from Hamburg. Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/)at the HfbK Hamburg. 
+Hello, I'm **Wiebke Grieshop (she/her)**, a Graphic Designer, Developer & Internet Explorer from Hamburg. 
+Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/)at the HfbK Hamburg. 
 
 
 
