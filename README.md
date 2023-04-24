@@ -1,6 +1,9 @@
-<p align="center"> <img src="https://media.giphy.com/media/3oEduPYHQCqxnwGeQw/giphy.gif" /> 
+<p align="center"> 
+  
+  # ✨ Welcome to my GitHub ✨
+  <img src="https://media.giphy.com/media/3oEduPYHQCqxnwGeQw/giphy.gif" /> 
 
-# ✨ Welcome to my GitHub ✨ </p>
+ </p>
 
 
 
