@@ -13,7 +13,7 @@
 
 
 
-Hello, I'm **Wiebke Grieshop (she/her)**, a Graphic Designer, Developer & Internet Explorer from Hamburg.  
+Hello, I'm **Wiebke Grieshop (she/her)**, a Graphic Designer, Developer & Internet Explorer.  
 Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/) at the HfbK Hamburg.  
 
 
