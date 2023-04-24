@@ -5,12 +5,7 @@
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![Alt Text]([https://tenor.com/de/view/puppies-dog-typing-workaholic-gif-12780513](https://tenor.com/de/view/graphic-design-is-my-passion-designer-terrible-dont-quit-your-day-job-lol-gif-12274412)
-
-
-
-
-
+![Alt Text](https://tenor.com/search/graphic+design+is+my+passion-gifs)
 
 Hallo, I'm Wiebke Grieshop, a graphic designer focusing on Grafik and Webdesign based in Hamburg.
 
