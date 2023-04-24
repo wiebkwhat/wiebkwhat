@@ -2,6 +2,11 @@
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
+<img src="https://media.giphy.com/media/3oEduPYHQCqxnwGeQw/giphy.gif" />
+
+
+
+
 
 Hallo, I'm Wiebke Grieshop, a graphic designer focusing on Grafik and Webdesign based in Hamburg.
 
