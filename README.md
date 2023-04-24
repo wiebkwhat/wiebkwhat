@@ -13,10 +13,10 @@
 
 <p align="center"> 
 
-Hallo, I'm **Wiebke Grieshop**, a graphic designer focusing on Grafik and Webdesign based in Hamburg.
+Hallo, I'm **Wiebke Grieshop**, a graphic designer focusing on Grafik and Webdesign based in Hamburg. </p>
 
-Don't hesitate to get in touch via [Email](mailto:hallo@wiebkegrieshop.com) for collaborative work, work enquiries or just to say <span style="color:blue">some *blue* text</span>. hello. 
+Don't hesitate to get in touch via [Email](mailto:hallo@wiebkegrieshop.com) for collaborative work, work enquiries or just to say hello. 
 
 Scroll to my [Portfolio](https://wiebkegrieshop.com/portfolio.pdf) or visit my [Website](https://wiebkegrieshop.com/).
 
-</p>
+
