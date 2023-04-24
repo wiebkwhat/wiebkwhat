@@ -1,18 +1,18 @@
 
 
 
-<span style="color: #f2cf4a; font-family: Babas;"> # Welcome to my GitHub :sparkles: </span>
-Heading Identifiers:
-### Red text title {#identifier .red}
+# :sparkles: Welcome to my GitHub :sparkles:
 
-Fenced Code Attributes:
-{.red .numberLines startFrom="1"}
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-Inline Code Attributes:
-`red text`{.red}
 
-Bracketed Spans:
-[This is *some red text*]{.red}
 
-Link Attributes:
-![alt text](the.jpg){.center}
+
+
+
+Hallo, I'm Wiebke Grieshop, a graphic designer focusing on Grafik and Webdesign based in Hamburg.
+
+Don't hesitate to get in touch via Email mailto:, [user@example.com](mailto:user@example.com) for collaborative work, work enquiries or just to say hello. 
+
+Scroll to my [Portfolio](https://wiebkegrieshop.com/portfolio.pdf) or visit my [Website](https://wiebkegrieshop.com/).
+
