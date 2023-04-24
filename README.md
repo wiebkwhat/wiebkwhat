@@ -6,15 +6,8 @@
  </p>
 
 
-
-
-In his beard lived three <span style="color:red">cardinals</span>.
-
-
-<p align="center"> 
-
-Hello, I'm **Wiebke Grieshop (she/her)**, a Graphic Designer, Developer & Internet Explorer from Hamburg. Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/)at the HfbK Hamburg.
- </p>
+<p align="center">
+Hello, I'm **Wiebke Grieshop (she/her)**, a Graphic Designer, Developer & Internet Explorer from Hamburg. Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/)at the HfbK Hamburg. </p>
 
 
 Don't hesitate to get in touch via [Email](mailto:hallo@wiebkegrieshop.com) for collaborative work, work enquiries or just to say hello. 
