@@ -14,7 +14,7 @@
 
 
 Hello, I'm **Wiebke Grieshop (she/her)**, a Graphic Designer, Developer & Internet Explorer from Hamburg.  
-Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/)at the HfbK Hamburg.  
+Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/) at the HfbK Hamburg.  
 
 
 
