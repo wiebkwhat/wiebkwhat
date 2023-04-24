@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.giphy.com/media/3oEduPYHQCqxnwGeQw/giphy.gif" width="40" height="40" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/3oEduPYHQCqxnwGeQw/giphy.gif" /> </p>
 
 # ✨ Welcome to my GitHub ✨
 
