@@ -7,7 +7,7 @@
 
 
 <p align="center">
-Hello, I'm <b>Wiebke Grieshop (she/her)<b>, a Graphic Designer, Developer & Internet Explorer from Hamburg. Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/)at the HfbK Hamburg. </p>
+Hello, I'm <b>Wiebke Grieshop (she/her)</b>, a Graphic Designer, Developer & Internet Explorer from Hamburg. Focusing on graphic and web design, I graduated from [ Klasse Digitale Grafik](https://digitale-grafik.com/)at the HfbK Hamburg. </p>
 
 
 <p align="center"> 
